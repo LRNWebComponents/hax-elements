@@ -8,9 +8,7 @@
   ],
   "license": "https://raw.githubusercontent.com/LRNWebComponents/hax-elements/master/LICENSE.md",
   "dependencies": {
-    "hax-behaviors": "LRNWebComponents/hax-behaviors",
-    "hax-content": "LRNWebComponents/hax-content",
-    "hax-editable": "LRNWebComponents/hax-editable",
-    "hax-editbar": "LRNWebComponents/hax-editbar"
+    "hax-body-behaviors": "LRNWebComponents/hax-body-behaviors#^1.4.0",
+    "hax-body": "LRNWebComponents/hax-body#^0.8.6"
   }
 }
